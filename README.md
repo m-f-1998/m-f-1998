@@ -1,5 +1,22 @@
-<h1 align="center">Hi 👋, I'm @m-f-1998</h1>
-<h3 align="center">A passionate application/full-stack developer from Edinburgh, Scotland</h3>
+<h1 align="center">Hi 👋, I'm Matthew Frankland</h1>
+<h3 align="center">A passionate Software Engineer from the Scottish Borders</h3>
+
+<br>
+
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=m-f-1998&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
+
+<br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+
+- 🌱 I’m currently a Web Developer at @IQXLimited and have a passion for full stack programming
+
+- 📫 How to reach me **https://www.matthewfrankland.co.uk**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
